@@ -1,4 +1,4 @@
-# British Airways Reviews Analysis
+# British Airways Review Analysis
 This Tableau dashboard offers a detailed analysis of customer reviews for British Airways. The analysis focuses on several key aspects to understand customer satisfaction and identify areas for improvement.
 
 ### Overview:
