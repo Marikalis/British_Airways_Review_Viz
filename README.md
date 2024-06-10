@@ -2,7 +2,7 @@
 This Tableau dashboard offers a detailed analysis of customer reviews for British Airways. The analysis focuses on several key aspects to understand customer satisfaction and identify areas for improvement.
 
 ### Overview:
-This project demonstrates proficiency in data visualization using Tableau, with a focus on deriving actionable insights from customer feedback data. It highlights the importance of sentiment analysis, thematic categorization, and temporal trends in understanding customer satisfaction and improving service quality.
+This project demonstrates proficiency in data visualization using Tableau, focusing on deriving actionable insights from customer feedback data. It highlights the importance of sentiment analysis, thematic categorization, and temporal trends in understanding customer satisfaction and improving service quality.
 
 ### Dashboard:
 ![Dashboard 1 (1)](https://github.com/Marikalis/british_airways_reviews/assets/63310952/4fca92cd-25ef-4254-9a44-b1b274ad07f6)
@@ -12,7 +12,7 @@ This project demonstrates proficiency in data visualization using Tableau, with 
 ### Key Insights:
 
 #### Sentiment Analysis:
-* The majority of the reviews are positive, indicating general satisfaction among customers.
+* Most of the reviews are positive, indicating general customer satisfaction.
 * Sentiment is categorized into positive, neutral, and negative, providing a clear picture of customer perceptions.
 
 #### Themes:
