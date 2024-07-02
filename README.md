@@ -17,7 +17,7 @@ This project demonstrates proficiency in data visualization using Tableau, focus
 
 #### Themes:
 * Positive Reviews: Highlight service quality, flight comfort, and punctuality.
-* Negative Reviews: Commonly mentioned issues related to customer service, flight delays, and baggage handling.
+* Negative Reviews: Commonly mentioned customer service, flight delays, and baggage handling issues.
 
 #### Class-Based Experience:
 * Economy Class: Most reviews come from this class, with a mix of sentiments.
